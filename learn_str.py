@@ -1,0 +1,11 @@
+# str = "hello world"
+# print(str.upper())
+# print(str.lower())
+# print(str.capitalize())
+# print(str.title())
+# print(str.count('l'))
+# print(str.find('l'))
+# print(str.replace('l','L'))
+# print(str.split('l'))
+# print(str)
+# print(str.join('l'))
